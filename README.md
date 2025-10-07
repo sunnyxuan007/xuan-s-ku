@@ -2,10 +2,12 @@
 ## RM任务
 ```
 ├── task1/
-│   └── helloworld/
-│       ├── 
-│       ├── 
-│       └── 
+│   └──environment/         #配置环境
+│       ├── helloworld运行任务.jpeg
+│       ├── hello+world.c
+│       ├── hello world code
+│       ├── 运行github2.jpeg
+│       └── 运行github.jpeg
 ├── task2/
 │   ├── cpp/
 │   │   ├── 1.cpp
@@ -19,5 +21,7 @@
 
 ### Task 1: 
 Hello World
-- C语言和C++的Hello World程序
-- [点击查看运行截图]
+- C语言的Hello World程序
+- 截图
+github
+- 截图
